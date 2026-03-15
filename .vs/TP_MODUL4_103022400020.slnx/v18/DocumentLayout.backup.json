@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{053434E6-DAD7-BAC6-1361-31CB4D5F841A}|TP_MODUL4_103022400020\\TP_MODUL4_103022400020.csproj|solutionrelative:tp_modul4_103022400020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{053434E6-DAD7-BAC6-1361-31CB4D5F841A}|TP_MODUL4_103022400020\\TP_MODUL4_103022400020.csproj|c:\\users\\rayka\\source\\repos\\tp_modul4_103022400020\\tp_modul4_103022400020\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053434E6-DAD7-BAC6-1361-31CB4D5F841A}|TP_MODUL4_103022400020\\TP_MODUL4_103022400020.csproj|solutionrelative:tp_modul4_103022400020\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{053434E6-DAD7-BAC6-1361-31CB4D5F841A}|TP_MODUL4_103022400020\\TP_MODUL4_103022400020.csproj|c:\\users\\rayka\\source\\repos\\tp_modul4_103022400020\\tp_modul4_103022400020\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{053434E6-DAD7-BAC6-1361-31CB4D5F841A}|TP_MODUL4_103022400020\\TP_MODUL4_103022400020.csproj|solutionrelative:tp_modul4_103022400020\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -21,12 +25,21 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL4_103022400020\\TP_MODUL4_103022400020\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "TP_MODUL4_103022400020\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL4_103022400020\\TP_MODUL4_103022400020\\DoorMachine.cs*",
+              "RelativeToolTip": "TP_MODUL4_103022400020\\DoorMachine.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:14:57.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL4_103022400020\\TP_MODUL4_103022400020\\KodePos.cs",
               "RelativeDocumentMoniker": "TP_MODUL4_103022400020\\KodePos.cs",
@@ -43,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL4_103022400020\\TP_MODUL4_103022400020\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL4_103022400020\\Program.cs",
-              "ToolTip": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL4_103022400020\\TP_MODUL4_103022400020\\Program.cs",
-              "RelativeToolTip": "TP_MODUL4_103022400020\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rayka\\source\\repos\\TP_MODUL4_103022400020\\TP_MODUL4_103022400020\\Program.cs*",
+              "RelativeToolTip": "TP_MODUL4_103022400020\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T14:03:44.341Z",
               "EditorCaption": ""

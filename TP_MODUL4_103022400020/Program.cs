@@ -16,5 +16,13 @@ class Program
 
         Console.WriteLine("Nama Kelurahan : " + kelurahan2.ToString());
         Console.WriteLine("Kode Pos : " + kodePosHasil2);
+
+        DoorMachine pintu = new DoorMachine();
+
+        Console.WriteLine("\nMembukaPintu");
+        pintu.AktivasiTrigger(DoorMachine.Trigger.BukaPintu);
+
+        Console.WriteLine("\nMengunciPintu");
+        pintu.AktivasiTrigger(DoorMachine.Trigger.KunciPintu);
     }
 }
